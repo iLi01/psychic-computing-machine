@@ -1,2 +1,2 @@
 # psychic-computing-machine
-day 3 workshop
+playing around with code
